@@ -1,6 +1,9 @@
 # Project. CodeBlue #
 ![image](https://github.com/backEndKwon/CodeBlue/assets/128948886/851aa11f-e71d-4518-81b1-1a47da694003)
 
+## 🏆 최고의 프로젝트상 수상! ![캡처01](https://github.com/backEndKwon/CodeBlue/assets/128948886/cbc45216-fe5d-4c16-9116-302be2e33d8f)
+
+
 ## 🏠 HOME 페이지 [Home Page Link](링크 작업ing)
 ## 📹 소개 영상 [youtube](링크 작업ing)
 ## 🧑🏾‍💻 세부 작업 현황 [Notion](https://www.notion.so/siwonmadang/Code-BLUE-ec7906910dec4f4b9d34da72fc334dd6)
